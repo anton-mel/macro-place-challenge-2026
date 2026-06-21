@@ -233,13 +233,13 @@ Classical methods (SA, RePlAce) have been refined for decades but still have roo
 |------|------|---------------|------|-------|----------|---------|----------|-------|
 | 1 | "Archgen" | **0.9507** | 0.7568 | 1.1839 | 0 | - | :white_check_mark: |  |
 | 2 | "Carrotato" | **0.9522** | 0.7525 | 1.1387 | 0 | ~12.4min/bench | :white_check_mark: |  |
-| 3 | "Shoom" | **0.9842** | 0.7635 | 1.1934 | 0 | - | :white_check_mark: |  |
-| 4 | "Klein-4" | **0.9846** | 0.7535 | 1.1670 | 0 | ~3290s/bench | :white_check_mark: | New 5/21. (Chaithu Talasila & Alan Schwartz, UT Austin) |
-| 5 | "tobias-x" | **0.9884** | 0.7685 | 1.1609 | 0 | 40min/bench | :white_check_mark: | New 5/20. (Tobias Franks) |
-| 6 | "Vibe" | **0.9939** | 0.7539 | 1.1585 | 0 | 516s/bench | :white_check_mark: | Resubmitted 5/21 (VibePlacer). Was 1.0003. |
-| 7 | "Macro Polo" | **0.9965** | 0.7470 | 1.2153 | 0 | ~1080s/bench | :white_check_mark: |  |
-| 8 | "thinkorplace" | **0.9974** | 0.7829 | 1.2602 | 0 | 12min/bench | :white_check_mark: | Resubmitted 5/20 (thinkorplace-v2). Was 1.0771. |
-| 9 | "JaneRT" | **0.9978** | 0.7335 | 1.2582 | 0 | 3500s/bench | :white_check_mark: | New 5/21. (Ujaan Rakshit, Jeet Dekivadia, Himansh Chitkara) |
+| 3 | "JaneRT" | **0.9694** | 0.7253 | 1.2156 | 0 | ~2843s/bench | :white_check_mark: |  |
+| 4 | "Shoom" | **0.9842** | 0.7635 | 1.1934 | 0 | - | :white_check_mark: |  |
+| 5 | "Klein-4" | **0.9846** | 0.7535 | 1.1670 | 0 | ~3290s/bench | :white_check_mark: | New 5/21. (Chaithu Talasila & Alan Schwartz, UT Austin) |
+| 6 | "tobias-x" | **0.9884** | 0.7685 | 1.1609 | 0 | 40min/bench | :white_check_mark: | New 5/20. (Tobias Franks) |
+| 7 | "Vibe" | **0.9939** | 0.7539 | 1.1585 | 0 | 516s/bench | :white_check_mark: | Resubmitted 5/21 (VibePlacer). Was 1.0003. |
+| 8 | "Macro Polo" | **0.9965** | 0.7470 | 1.2153 | 0 | ~1080s/bench | :white_check_mark: |  |
+| 9 | "thinkorplace" | **0.9974** | 0.7829 | 1.2602 | 0 | 12min/bench | :white_check_mark: | Resubmitted 5/20 (thinkorplace-v2). Was 1.0771. |
 | 10 | "vmallela" | **1.0109** | 0.7644 | 1.2921 | 0 | 15.5h total | :white_check_mark: | Verified 1.0109 (self-reported 1.1). |
 | 11 | "DREAMPlaceProMaxUltra" | **1.0121** | 0.8022 | 1.2047 | 0 | 55min/bench | :white_check_mark: | Resubmitted 5/21 and scored 1.0144, keeping old score. |
 | 12 | "QED" | **1.0266** | 0.7891 | 1.2219 | 0 | 25min/bench | :white_check_mark: | Resubmitted 5/21 (MultiProxyCD v14). |
